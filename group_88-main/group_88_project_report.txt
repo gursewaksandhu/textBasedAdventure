@@ -1,0 +1,99 @@
+Phase 2 Marking Scheme
+
+Team Name: group_88
+
+PROJECT DEMO (worth 30%)    *marked demo assuming theres only 1 group member
+
+One feature per person presented and are innovative, clear, stable, address accessibility concerns (12 marks)
+
+One design choice per team member is clearly explained (10 marks)
+
+Distribution of work across teammates is clear and fair (4 marks)
+
+All teammates contribute to demo (4 marks)
+
+Features: 12/12
+Designs: 10/10
+Distribution: 4/4
+Contributions 4/4
+
+TOTAL: 30/30
+
+PROCESS MARKS (40%)
+
+User stories identified (IDs correspond to design document) and branches in GitLab repository can be easily related to user stories  (4 marks)
+
+
+Retrospective notes indicate process refined/improved;  GitFlow process is stable by final iteration (4 marks) 
+(not applicable)
+
+User stories initiated early and there is evidence of incremental commits with intuitive commit messages  (8 marks)
+
+
+Merge requests/code reviews exist at each iteration (8 marks)
+
+
+Incremental commits include tests (8 marks)
+- -8 no tests
+
+Incremental commits include documentation (JavaDoc)  (8 marks)
+- -2 some classes/methods aren't documented
+
+User Stories: 4/4
+Retrospectives/Process Improvement: 4/4
+Incremental, Clear Commits: 8/8
+Merge Requests: 8/8
+Tests: 0/8
+Documentation: 6/8
+
+TOTAL: 30/40
+
+FINAL REPORT + DESIGN DOCUMENT REVISION (20%)
+
+Goals and Stories selected for each sprint are clear in Final Report (4 marks)
+- -2 not clear which stories are selected for which sprint
+
+Retrospectives are clear and meaningful in Final Report (2 marks)
+- -2 no retros
+
+Code Reviews (Merge Requests) are accessible in Final Report (2 marks)
+- -2 no code reviews in report
+
+Process is summarized well in final report (4 marks)
+- -4 no summary
+
+UML/Design Patterns reflect what was completed (8 marks)
+
+Goals/Stories: 2/4
+Retrospectives: 0/2
+Code Reviews: 0/2
+Process Documentation: 0/4
+UML/Design Patterns: 8/8
+
+TOTAL: 10/20
+
+Bonus of 5 points for making due given 1-person process
+
+TOTAL: 15/20
+
+WRITING QUALITY OF FINAL REPORT/DESIGN DOCUMENT (10%)
+
+Structure (4 marks): Organization of final report + design document is logical and clear.
+- -1 structure should follow the template more closely
+
+Mechanics (3 marks):  Sentences must be complete, grammatically correct, and well written.
+
+Appropriateness for the Audience (3 marks): Writing must be appropriate for consumption by a technical audience.
+
+Structure: 3/4
+Mechanics: 3/3
+Appropriateness: 3/3
+
+TOTAL: 9/10
+
+COMMENTS: 
+
+TOTAL MARK FOR PHASE 2: 84/100
+
+Hi Gursewak, we recognize that you did the best you could here!!  Version control is an important tool; please try to practice using it with someone before you take CSC209 or CSC301, for example.  Handling merge requests is an important skill, for example!!  Am sorry you were not able to practice this as much as we might have liked in CSC207.
+

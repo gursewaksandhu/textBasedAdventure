@@ -1,0 +1,122 @@
+1
+Oaks Lab
+As a researcher at Oak's lab in pallet town you have been tasked to go on a journey to visit several other regions in order to share information with other Labs and update Pokedex entries.
+-----
+NORTH      2
+
+2
+Route 1
+You have left the Lab and come across a yellow pokemon while on Route 1. You scan its picture and enter its name to add the entry to your Pokedex.
+-----
+NORTH      3
+
+3
+Pewter City
+As you keep travelling you arrive at Pewter City where you must meet with the local gym leader to ask for research data regarding cave species of pokemon.
+-----
+NORTH      4
+
+4
+Indigo Plateau
+After discussing you stop by the Pokemon league as you are nearby to interview the challengers and understand their relationships with their Pokemon before heading to the next region.
+-----
+NORTH      5
+
+5
+Olivine City
+After a ride on the ferry you arrive at Olive City where you see a large red bird pass by before continuing to New Bark Town to meet the professor
+-----
+EAST       6
+
+6
+Quilava Lab
+Upon arriving at the lab you see a unique fire-type pokemon not found in Kanto playfully running around the professor Elm.
+-----
+EAST       7
+
+7
+Suicune wild
+After you leave the lab you encounter one of the legendary dog pokemon on your way to the port. You snap a picture and record the name of this pokemon.
+-----
+EAST       8
+SOUTH      17
+
+8
+Archie Team
+Upon arriving at your next destination you come across news articles regard the leader of Team Aqua Archie and his evil activites.
+-----
+EAST       9
+
+9
+Plusle Minun
+While travelling through the Hoenn region you see 2 small pokemon playing with each other these pokemon are plus and minus, you scan them to add their typing information to the pokedex.
+-----
+SOUTH     10
+
+10
+tepig evolution
+After some travelling you reach professor Juniper's lab in Unova, where you see a trainer being given their first pokemon a tepig.
+-----
+SOUTH      11
+
+11
+N meeting
+Upon leaving Juniper's lab  you meet a legendary Trainer of the Unova region. This trainer uses the legendary Pokemon Reshiram and is a former member of team plasma.
+-----
+SOUTH      12
+
+12
+Kyurem meeting
+Upon discussing with N, he decides to help you advance the pokedex information by taking you to see a slumbering legendary pokemon in a frozen cave.
+-----
+SOUTH      13
+
+13
+Iris meeting
+After you say your goodbyes to N, you head south to the pokemon league to research the champions dragon type pokemon.
+-----
+WEST       14
+
+14
+Kalos arrival
+Upon completing your research in the Unova region you head to the train station where you see several poster about a team Flare.
+-----
+WEST       15
+
+15
+Sycamore meeting
+After a ride on the train you arrive at the professors lab in kalos. where you will meet the professor.
+-----
+WEST      16
+
+16
+Victory
+You have completed your research and earned your self a position as a professor. Congratulations!
+-----
+FORCED     0
+
+17
+Rayquaza tower
+you head south to the tower where there is chance to see the legendary dragon pokemon of the Hoenn region
+-----
+SOUTH      18
+EAST       20
+
+18
+Infernape meeting
+After some travelling you finally find your self at Rowan's lab where his pokemon are currently training. To the south is the cave of Dialga, and to the east is the Unova region
+-----
+EAST       20
+SOUTH      19
+
+19
+Dialga cave
+You arrive at the legendary cave which supposedly seals the a pokemon that controls time.
+-----
+EAST       20
+
+20
+Kirlia meeting
+On your way to the Unova region you come across a pokemon that has 2 evolutions and enter its name into your pokedex before continuing towards Unova
+-----
+EAST      10
